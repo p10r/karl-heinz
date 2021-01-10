@@ -12,7 +12,6 @@ a computer or speakers.
 Karl-Heinz builds up around the concept of rooms containing different components one can control or observe.  
 
 ![concept](assets/png/concept.png)
-<div style="text-align:center"><img src="assets/png/concept.png" /></div>
 
 ### Plants
 Plants are, on a lower level, NodeMCU microcontrollers that track the humidity of the plants soil and push their data
@@ -25,3 +24,4 @@ that can be toggled on and off.
 The idea is to keep this definition broad, to enable other kinds of devices, for example dimmable lights.
 
 ### Your Module!
+Since the rooms only act as a kind of facade in front of the single modules, adding a custom one will be no hassle.
