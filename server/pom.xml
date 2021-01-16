@@ -6,6 +6,7 @@
     <modules>
         <module>config</module>
         <module>rooms</module>
+        <module>sockets</module>
     </modules>
 
     <parent>
